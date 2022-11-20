@@ -157,6 +157,7 @@ main {
 
 .main-nav ul li a {
     text-decoration: none;
+    color: var(--clr-neutral--600);
 }
 
 .main-nav ul li a:visited {
